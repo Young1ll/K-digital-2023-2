@@ -1,0 +1,19 @@
+repo_name: young1ll/K-digital-2023-2
+report_id: 9e2c9c8952d42392a480126c994b6c3f
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-28T13:43:52+00:00'
+requested_by: pnumin
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
